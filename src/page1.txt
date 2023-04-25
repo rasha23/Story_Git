@@ -2,4 +2,4 @@ hello
 this is Rasha I like java programming
 Iam a computer Science
 I want to be programmer
-I used my Mac to solve my task
+I use my Mac to solve my task
